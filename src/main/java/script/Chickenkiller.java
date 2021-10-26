@@ -1,4 +1,4 @@
-package combat;
+package script;
 
 import org.parabot.environment.api.utils.Time;
 import org.parabot.environment.scripts.Category;
